@@ -1,3 +1,7 @@
+### The following is a programing assignment for my intoduction to computer graphics class at SFU where I got to work on line and triangle rasteriazation within a 64px by 64px sample domain. 
+
+Here is the assignment description for reference.
+
 # SFU CMPT 361 Assignment 3: Rasterizing Lines and Triangles!
 
 In this assignment, you will implement rasterization algorithms that allow you to draw lines and solid triangles!
