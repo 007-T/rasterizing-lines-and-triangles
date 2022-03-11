@@ -1,5 +1,5 @@
 ### The following is a programing assignment for my intoduction to computer graphics class at SFU where I got to work on line and triangle rasteriazation within a 64px by 64px sample domain. 
-
+https://htmlpreview.github.io/?https://github.com/007-T/rasterizing-lines-and-triangles/blob/main/a3.html
 Here is the assignment description for reference.
 
 # SFU CMPT 361 Assignment 3: Rasterizing Lines and Triangles!
